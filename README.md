@@ -11,7 +11,7 @@ This project explores the "Empathy Process Flow," a key aspect of Design Thinkin
 📂 Project Structure
 📄 Empathy_Process_Flow.pdf - Final report detailing the research, findings, and empathy map based on feedback.csv.
 📊 sentiment_analysis.ipynb - Jupyter Notebook for analyzing feedback from feedback.csv and visualizing sentiment.
-📁 feedback.csv - Sample dataset containing user feedback.
+
 
 🧠 Empathy Map
 🗣️ Says:
@@ -46,6 +46,7 @@ Open your terminal/command prompt and run the above command to install the requi
 
 2️⃣ Run the Jupyter Notebook
 Open sentiment_analysis.ipynb using Jupyter Lab or Jupyter Notebook.
+
 Execute the cells to load data from feedback.csv, perform sentiment analysis, and visualize the results.
 
 3️⃣ Interpret the Output
