@@ -44,6 +44,16 @@ This project explores the "Empathy Process Flow," a key aspect of Design Thinkin
 - Contacts customer support.
 - Looks for alternative products.
 
+📌 Suggestions:
+
+pandas
+nltk
+scikit-learn
+flask
+matplotlib
+seaborn
+
+
 ## 🛠️ How to Use
 ### 1️⃣ Install Required Libraries
 Run the following command in the terminal:
